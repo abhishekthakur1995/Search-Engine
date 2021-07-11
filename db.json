@@ -1,0 +1,19 @@
+{
+    "suggestions": [
+        {
+            "dbName": "Loan Master",
+            "path": "MISONLINE > Master Dashboard > Loan Master",
+            "similarity": "80"
+        },
+        {
+            "dbName": "Deposit Master",
+            "path": "MISONLINE > Master Dashboard > Deposit Master",
+            "similarity": "80"
+        },
+        {
+            "dbName": "Advances Master",
+            "path": "MISONLINE > Master Dashboard > Advances Master",
+            "similarity": "80"
+        }
+    ]
+}
