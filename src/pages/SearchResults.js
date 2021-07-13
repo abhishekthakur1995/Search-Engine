@@ -20,9 +20,9 @@ const SearchResults = ( {searchQuery} ) => {
     }
 
     return (
-        <div>
+        <>
             <ResultList results={apiResults} />
-        </div>
+        </>
     )
 }
 

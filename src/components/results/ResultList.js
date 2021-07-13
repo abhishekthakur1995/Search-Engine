@@ -1,7 +1,15 @@
-const Results = () => {
+import ResultItem from "./ResultItem"
+
+const ResultList = ({ results }) => {
     return (
-        <div></div>
+        <>
+            {
+                results.map((result, index) => (
+                    <ResultItem key={index} result={result} />
+                ))
+            }
+        </>
     )
 }
 
-export default Results
+export default ResultList
